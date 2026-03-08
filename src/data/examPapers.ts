@@ -21,6 +21,14 @@ import paper_va6 from './papers/VA_6_Paper2_MCQ.txt?raw';
 import paper_va7 from './papers/VA_7_Paper2_MCQ.txt?raw';
 import paper_va9 from './papers/VA_9_Paper2_MCQ.txt?raw';
 import paper_va10 from './papers/VA_10_Paper3_Essay.txt?raw';
+import paper_va13 from './papers/VA_13_Paper3_Essay.txt?raw';
+import paper_va14 from './papers/VA_14_Paper2_MCQ.txt?raw';
+import paper_va15 from './papers/VA_15_Paper3_MCQ.txt?raw';
+import paper_va17 from './papers/VA_17_Paper2_MCQ.txt?raw';
+import paper_va18 from './papers/VA_18_Paper3_MCQ.txt?raw';
+import paper_va20 from './papers/VA_20_Paper3_MCQ.txt?raw';
+import paper_va21 from './papers/VA_21_Paper3_Essay.txt?raw';
+import paper_va22 from './papers/VA_22_Paper2_MCQ.txt?raw';
 
 export interface ExamPaper {
   name: string;
