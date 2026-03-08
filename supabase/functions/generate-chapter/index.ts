@@ -80,9 +80,9 @@ TEXTBOOK ELEMENTS TO INCLUDE THROUGHOUT:
 ○ (C) Option C
 ○ (D) Option D
 
-**Answer:** (Correct option letter) - Brief explanation if needed
+**Answer:** (Correct option letter)
 
-(DO NOT include Short Answer Questions, Explain with Reasons, Fill in the Blanks, Table Completion, Diagram Questions, or Project sections. Only MCQs in the exercise section. All other content must be integrated into the chapter body.)
+(IMPORTANT: Show the correct answer immediately after each MCQ. DO NOT include Short Answer Questions, Explain with Reasons, Fill in the Blanks, Table Completion, Diagram Questions, or Project sections. Only MCQs in the exercise section. All other content must be integrated into the chapter body.)
 
 EXPLANATION STYLE:
 - Start from basic understanding

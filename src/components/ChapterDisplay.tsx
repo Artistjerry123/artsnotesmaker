@@ -48,6 +48,7 @@ const ChapterDisplay = ({ content, topic, isStreaming, onBack }: ChapterDisplayP
       <div className="bg-card rounded-xl shadow-lg border border-border p-6 md:p-10 lg:p-14">
         <div className="chapter-content prose prose-lg max-w-none">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             components={{
               // Custom renderers for special textbook elements
               blockquote: ({ children }) => {
