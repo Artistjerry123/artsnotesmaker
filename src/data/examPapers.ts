@@ -13,6 +13,14 @@ import paper_dec23 from './papers/Visual_Art_December-2023.txt?raw';
 import paper_aug24 from './papers/VISUAL_ART_AUGUST-2024.txt?raw';
 import paper_jan25 from './papers/VISUAL_ART_JANUARY-2025.txt?raw';
 import paper_jun25 from './papers/VISUAL_ART_JUNE-2025.txt?raw';
+import paper_va1 from './papers/VA_1_Paper3_Essay.txt?raw';
+import paper_va2 from './papers/VA_2_Paper2_MCQ.txt?raw';
+import paper_va4 from './papers/VA_4_Paper2_MCQ.txt?raw';
+import paper_va5 from './papers/VA_5_Paper3_MCQ.txt?raw';
+import paper_va6 from './papers/VA_6_Paper2_MCQ.txt?raw';
+import paper_va7 from './papers/VA_7_Paper2_MCQ.txt?raw';
+import paper_va9 from './papers/VA_9_Paper2_MCQ.txt?raw';
+import paper_va10 from './papers/VA_10_Paper3_Essay.txt?raw';
 
 export interface ExamPaper {
   name: string;
@@ -34,6 +42,22 @@ export const examPapers: ExamPaper[] = [
   { name: "Visual Art, August 2024", content: paper_aug24 },
   { name: "Visual Art, January 2025", content: paper_jan25 },
   { name: "Visual Art, June 2025", content: paper_jun25 },
+  { name: "VA Paper-III Essay (D-79-10)", content: paper_va1 },
+  { name: "VA Paper-II MCQ (D-79-10)", content: paper_va2 },
+  { name: "VA Paper-II MCQ (D-79-11)", content: paper_va4 },
+  { name: "VA Paper-III MCQ (D-79-12)", content: paper_va5 },
+  { name: "VA Paper-II MCQ (D-79-12)", content: paper_va6 },
+  { name: "VA Paper-II MCQ (D-79-13)", content: paper_va7 },
+  { name: "VA Paper-II MCQ (D-7909)", content: paper_va9 },
+  { name: "VA Paper-III Essay (D-7909)", content: paper_va10 },
+  { name: "VA Paper-III Essay (J-79-13)", content: paper_va13 },
+  { name: "VA Paper-II MCQ (J-79-13 v14)", content: paper_va14 },
+  { name: "VA Paper-III MCQ (J-79-12)", content: paper_va15 },
+  { name: "VA Paper-II MCQ (J-79-13 v17)", content: paper_va17 },
+  { name: "VA Paper-III MCQ (J-79-13)", content: paper_va18 },
+  { name: "VA Paper-III MCQ (J-79-10)", content: paper_va20 },
+  { name: "VA Paper-III Essay (J-7910)", content: paper_va21 },
+  { name: "VA Paper-II MCQ (J-7910)", content: paper_va22 },
 ];
 
 export function getAllPapersText(): string {
