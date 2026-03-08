@@ -69,20 +69,17 @@ TEXTBOOK ELEMENTS TO INCLUDE THROUGHOUT:
 
 ---
 
-## Exam Oriented MCQs
+## Exam Oriented Questions
 
-(Create 15-25 MCQs based on the chapter content AND previous year exam questions on this topic. Format each MCQ with pointer-style options like below:)
+(Create 15-25 exam oriented questions based on the chapter content AND previous year exam questions on this topic. Format: ONLY question and answer, NO options. Like below:)
 
 **Q1.** Question text here?
+**Ans.** Direct answer here.
 
-○ (A) Option A
-○ (B) Option B
-○ (C) Option C
-○ (D) Option D
+**Q2.** Question text here?
+**Ans.** Direct answer here.
 
-**Answer:** (Correct option letter)
-
-(IMPORTANT: Show the correct answer immediately after each MCQ. DO NOT include Short Answer Questions, Explain with Reasons, Fill in the Blanks, Table Completion, Diagram Questions, or Project sections. Only MCQs in the exercise section. All other content must be integrated into the chapter body.)
+(IMPORTANT: Only question and answer. NO options (A/B/C/D). Keep answers concise - one line or short phrase. DO NOT include Short Answer Questions, Explain with Reasons, Fill in the Blanks, Table Completion, Diagram Questions, or Project sections. All other content must be integrated into the chapter body.)
 
 EXPLANATION STYLE:
 - Start from basic understanding
