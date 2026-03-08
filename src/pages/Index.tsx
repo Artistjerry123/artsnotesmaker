@@ -167,7 +167,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border py-6 mt-12 no-print">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground font-body">
-          <p>Smart Textbook Generator • Powered by AI + 9 UGC NET Exam Papers (2019–2025)</p>
+          <p>Smart Textbook Generator • Powered by AI + 26 UGC NET Exam Papers (2016–2025)</p>
         </div>
       </footer>
     </div>
