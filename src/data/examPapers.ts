@@ -70,6 +70,10 @@ export const examPapers: ExamPaper[] = [
   { name: "VA Paper-III MCQ (J-79-10)", content: paper_va20 },
   { name: "VA Paper-III Essay (J-7910)", content: paper_va21 },
   { name: "VA Paper-II MCQ (J-7910)", content: paper_va22 },
+  { name: "VA Paper-III Essay (D-79-11)", content: paper_va3 },
+  { name: "VA Paper-III MCQ (D-79-13 v8)", content: paper_va8 },
+  { name: "VA Paper-II MCQ (J-79-12 v16)", content: paper_va16 },
+  { name: "VA Paper-II MCQ (J-79-14 v19)", content: paper_va19 },
 ];
 
 export function getAllPapersText(): string {
