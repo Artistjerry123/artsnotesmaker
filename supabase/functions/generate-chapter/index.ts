@@ -21,10 +21,11 @@ serve(async (req) => {
 
 CRITICAL INSTRUCTIONS:
 1. You are given the complete text of 26 UGC NET Visual Art previous year exam papers (2016-2025).
-2. You MUST carefully scan ALL the exam papers and extract EVERY question, option, fact, concept, name, date, artwork, artist, movement, technique, and detail related to the given topic.
-3. You MUST integrate ALL these exam-relevant points naturally into the chapter explanation. DO NOT miss any concept asked in previous exams. Every single point from papers related to this topic must be covered in the chapter itself.
-4. DO NOT include unrelated topics. Cover ONLY the given topic.
-5. ${langInstruction}
+2. You MUST carefully scan ALL 26 exam papers one by one and extract EVERY question, option, fact, concept, name, date, artwork, artist, movement, technique, and detail related to the given topic. Go through each paper thoroughly - do not skip any paper.
+3. You MUST integrate ALL these exam-relevant points naturally into the chapter explanation. DO NOT miss any concept asked in previous exams. Every single point from every single paper related to this topic must be covered in the chapter itself. Even if a fact appears in only one paper's one option, it must be included.
+4. DOUBLE CHECK: After writing the chapter, mentally re-scan all 26 papers to verify you haven't missed ANY related point. If you find any missed point, add it to the relevant section.
+5. DO NOT include unrelated topics. Cover ONLY the given topic.
+6. ${langInstruction}
 
 CHAPTER STRUCTURE (Follow this textbook format):
 
