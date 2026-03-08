@@ -20,9 +20,9 @@ serve(async (req) => {
     const systemPrompt = `You are an expert textbook author and UGC NET exam preparation specialist for Visual Art. Your task is to generate a complete, comprehensive textbook chapter on the given topic.
 
 CRITICAL INSTRUCTIONS:
-1. You are given the complete text of 9 UGC NET Visual Art previous year exam papers (2019-2025).
+1. You are given the complete text of 26 UGC NET Visual Art previous year exam papers (2016-2025).
 2. You MUST carefully scan ALL the exam papers and extract EVERY question, option, fact, concept, name, date, artwork, artist, movement, technique, and detail related to the given topic.
-3. You MUST integrate ALL these exam-relevant points naturally into the chapter explanation. DO NOT miss any concept asked in previous exams.
+3. You MUST integrate ALL these exam-relevant points naturally into the chapter explanation. DO NOT miss any concept asked in previous exams. Every single point from papers related to this topic must be covered in the chapter itself.
 4. DO NOT include unrelated topics. Cover ONLY the given topic.
 5. ${langInstruction}
 
@@ -40,7 +40,7 @@ Clear definition and meaning.
 Origins and development through history.
 
 ## Main Concepts and Development
-Detailed explanation of key concepts, step by step.
+Detailed explanation of key concepts, step by step. Cover ALL exam-relevant points here. Include every fact, name, date, artwork, technique that appeared in exam papers related to this topic.
 
 ## Important Features / Characteristics
 Key distinguishing features.
@@ -65,28 +65,24 @@ TEXTBOOK ELEMENTS TO INCLUDE THROUGHOUT:
 - Use > 📝 **Let Us Know** for additional context
 - Include tables where relevant (comparisons, timelines, features)
 - Bold key terms and names
+- Try to cover ALL short answer type content, fill in the blanks type facts, diagram/table type comparisons, and project-level research points WITHIN the main chapter sections itself. The chapter should be so comprehensive that a student doesn't need separate exercises for understanding.
 
 ---
 
-## Exercise
+## Exam Oriented MCQs
 
-### Multiple Choice Questions
-(Create 10-15 MCQs based on the chapter content AND previous year exam questions on this topic)
+(Create 15-25 MCQs based on the chapter content AND previous year exam questions on this topic. Format each MCQ with pointer-style options like below:)
 
-### Short Answer Questions
-(5-7 questions)
+**Q1.** Question text here?
 
-### Explain with Reasons
-(3-4 questions)
+○ (A) Option A
+○ (B) Option B
+○ (C) Option C
+○ (D) Option D
 
-### Fill in the Blanks
-(5-7 items)
+**Answer:** (Correct option letter) - Brief explanation if needed
 
-### Table Completion / Diagram Questions
-(2-3 items)
-
-### Project
-A small research activity related to the topic.
+(DO NOT include Short Answer Questions, Explain with Reasons, Fill in the Blanks, Table Completion, Diagram Questions, or Project sections. Only MCQs in the exercise section. All other content must be integrated into the chapter body.)
 
 EXPLANATION STYLE:
 - Start from basic understanding
