@@ -12,7 +12,7 @@ const LoadingScreen = () => {
         Researching & Generating Chapter
       </h2>
       <p className="text-muted-foreground font-body max-w-md mb-6">
-        Scanning 9 exam papers, extracting relevant concepts, and crafting your textbook chapter...
+        Scanning 26 exam papers, extracting relevant concepts, and crafting your textbook chapter...
       </p>
       <div className="flex gap-2">
         <span className="loading-dot" />
