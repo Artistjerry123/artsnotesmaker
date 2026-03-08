@@ -1,4 +1,5 @@
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { ArrowLeft, Printer, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
