@@ -29,6 +29,10 @@ import paper_va18 from './papers/VA_18_Paper3_MCQ.txt?raw';
 import paper_va20 from './papers/VA_20_Paper3_MCQ.txt?raw';
 import paper_va21 from './papers/VA_21_Paper3_Essay.txt?raw';
 import paper_va22 from './papers/VA_22_Paper2_MCQ.txt?raw';
+import paper_va3 from './papers/VA_3_Paper3_Essay.txt?raw';
+import paper_va8 from './papers/VA_8_Paper3_MCQ.txt?raw';
+import paper_va16 from './papers/VA_16_Paper2_MCQ.txt?raw';
+import paper_va19 from './papers/VA_19_Paper2_MCQ.txt?raw';
 
 export interface ExamPaper {
   name: string;
