@@ -1,0 +1,4 @@
+project_id = "klrbelskzxbwotgcdemc"
+
+[functions.generate-chapter]
+verify_jwt = false
